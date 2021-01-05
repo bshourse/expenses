@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<expenses>
+
+  <expense date="20.12.2020" category="Подарки" amount="4000" >
+    Новогодние подарки
+  </expense>
+
+  <expense date="3.1.2021" category="Образование" amount="900" >
+    Книжка Код. Тайный язык информатики
+  </expense>
+
+  <expense date="4.1.2021" category="Еда" amount="2000" >
+    Мука, Овощи, Фрукты
+  </expense>
+
+  <expense date="5.1.2021" category="Жилье" amount="35000" >
+    Оплата дома + квартплата
+  </expense>
+</expenses>
